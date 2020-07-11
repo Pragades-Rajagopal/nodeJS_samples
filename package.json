@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Initial learning on NodeJS",
+  "main": "(app.js)",
+  "scripts": {
+    
+    "develop" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragades-Rajagopal/nodeJS_samples.git"
+  },
+  "author": "Goldsmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragades-Rajagopal/nodeJS_samples/issues"
+  },
+  "homepage": "https://github.com/Pragades-Rajagopal/nodeJS_samples#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

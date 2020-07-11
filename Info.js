@@ -1,5 +1,5 @@
 const  sayName = () => {
-    console.log('Hey there mate');
+    console.log('Hey there buddy');
 };
 
 const sayAddress = () => {
