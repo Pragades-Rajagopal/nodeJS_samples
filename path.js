@@ -6,7 +6,7 @@ const fileLocation = path.join(__dirname, 'app.js'); //joins the strings
 
 const filename = path.basename(fileLocation) //returns the last path
 
-// console.log(filename)
+console.log(filename)
 
 const fileExt = path.extname(filename)
 console.log(fileExt)
